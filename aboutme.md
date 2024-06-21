@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-# subtitle: Why you'd want to go on a date with me
+subtitle: The page is WIP. Hopefully coming out sooner than GTA 6 and Winds of Winter
 ---
 
 <!-- My name is Inigo Montoya. I have the following qualities:
